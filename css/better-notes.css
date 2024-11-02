@@ -1,0 +1,9 @@
+/* ============ */
+/* = META BOX = */
+/* ============ */
+#betternote-add-new { padding:7px 0 4px 0; }
+.betternote-wrapper { overflow:hidden; zoom:1; }
+.betternote-inner { height:350px; padding:20px 0 0 0; position:relative; }
+.betternote-actions { width:50px; height:100px; position:absolute; left:0; top:20px; }
+.betternote-handle { display:block; height:30px; margin-bottom:50px; overflow:hidden; text-indent:-9999px; background:url(../images/handle.gif) left center no-repeat; }
+.betternote-copy { margin-left:65px; height:350px; }
